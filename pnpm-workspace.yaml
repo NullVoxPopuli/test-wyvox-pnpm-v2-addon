@@ -1,0 +1,3 @@
+packages:
+  - 'test-wyvox-pnpm-v2-addon'
+  - 'test-app'
